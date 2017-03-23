@@ -1,2 +1,8 @@
 #TypeScript Ignore
 *.js	
+
+#Nodejs Ignore
+node_modules/
+
+#Log Ignore
+*.log
